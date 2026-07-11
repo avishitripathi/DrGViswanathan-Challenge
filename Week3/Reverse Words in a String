@@ -2,7 +2,7 @@
 Problem: 151-Reverse Words in a String
 Topic: Strings
 Platform: LeetCode
-Difficulty: Easy
+Difficulty: Medium
 */
 
 class Solution {
